@@ -20,7 +20,7 @@
 
 <img width="1658" height="1009" alt="Screenshot 2026-10-17 at 14 24 02" src="https://github.com/user-attachments/assets/115709ae-3ec2-4c90-8695-da527b60b6e0" />
 
-9. Μετά πατά το εικονίδιο που είναι δίπλα στο κουμπί ενεργοποίησης. Θα ανοίξει ένα παράθυρο που μπορείς να βάλεις το API Key. Βαλε το API Private Token απ'το βημα 5.
+9. Μετά πάτα το εικονίδιο που είναι δίπλα στο κουμπί ενεργοποίησης. Θα ανοίξει ένα παράθυρο που μπορείς να βάλεις το API Key. Βαλε το API Private Token απ'το βημα 5.
 
 <img width="1658" height="1009" alt="Screenshot 2026-10-17 at 14 24 09" src="https://github.com/user-attachments/assets/855462a7-71ff-4948-b79d-1f91683bc004" />
 
